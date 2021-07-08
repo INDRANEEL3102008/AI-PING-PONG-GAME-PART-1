@@ -1,0 +1,27 @@
+.heading {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    text-align: left;
+    border: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+}
+.heading h3 {
+    display: inline;
+}
+
+.instructions {
+    float: right;
+    border: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.play {
+    border: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
